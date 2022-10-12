@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "1",
+      "setup": "sudo -H pip3 install numpy",
+      "run": "python3 .tictac3d_test_1.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "2",
+      "setup": "sudo -H pip3 install numpy",
+      "run": "python3 .tictac3d_test_2.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "3",
+      "setup": "sudo -H pip3 install numpy",
+      "run": "python3 .tictac3d_test_3.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "4",
+      "setup": "sudo -H pip3 install numpy",
+      "run": "python3 .tictac3d_test_4.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "5",
+      "setup": "sudo -H pip3 install numpy",
+      "run": "python3 .tictac3d_test_5.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    }
+  ]
+}
